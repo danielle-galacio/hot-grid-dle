@@ -26,14 +26,13 @@ body {
   width: 100%;
 }
 
-.fig {
+figure {
   position: relative;
   margin: 0;
 }
 
-.figcaption {
-  padding-left: 1rem;
-  padding-right: 1rem;
+figcaption {
+  padding: 1rem;
   font-weight: bold;
   position: absolute;
   bottom: .5rem;
